@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SecondScreen.swift
 //  TestProgramaticallyUIKIT
 //
 //  Created by nur kholis on 14/12/22.
@@ -7,13 +7,10 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SecondScreen: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        view.backgroundColor = .systemPurple
     }
-
-
 }
-
